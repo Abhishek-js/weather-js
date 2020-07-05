@@ -1,0 +1,19 @@
+body{
+ font-family: Oswald;
+ text-decoration: none;
+ font-size: 1.3rem;
+ margin-top: 4%;
+ margin-left: 3%;
+ color: #3b5999;
+}
+input {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+button {
+    cursor: pointer;
+    background: #888888;
+    padding: 8px;
+    color: #fff;
+    border: 1px solid #888888;
+}
