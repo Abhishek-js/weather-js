@@ -1,5 +1,5 @@
 ### A Weather Application
-<p>A Web Application to Know Your Current Location's Weather Worldwide</p>
+<p>A Web Application to Know Your Location's Current Weather anywhere from the World</p>
 
 ## Made with 
 # 1. Node.JS
